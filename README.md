@@ -1,2 +1,2 @@
 # vote
-This app is for Vote test
+This app is for Vote test2
